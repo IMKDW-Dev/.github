@@ -1,5 +1,3 @@
-# Introduction
-
 <div align="center">
   <a href="https://imkdw.dev">
     <img src="https://static.imkdw.dev/images/open-graph.png" alt="IMKDW-Dev" width="300" height="200">
